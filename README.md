@@ -1,5 +1,7 @@
 ### Hello World!, I'm myothirikyaw 👋
 
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
 ## I'm Developer, Creator, Learner!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my way
@@ -11,7 +13,7 @@
 - ⚡ Fun fact: Eating
 
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
