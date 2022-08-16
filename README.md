@@ -1,6 +1,6 @@
 ### Hello World!, I'm myothirikyaw 👋
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/linakhedikar" width="500" height="320" />
 
 ## I'm Developer, Creator, Learner!!
 - ✍ You can find my projects here [portfolio]
