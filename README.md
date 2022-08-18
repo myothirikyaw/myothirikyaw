@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning HTML / CSS / javascript / jQuery / react
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: www.instagram.com
+- 📫 How to reach me: https://www.instagram.com/m20_tk/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Eating
 
@@ -44,7 +44,7 @@
 
 [website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
+[instagram]: https://www.instagram.com/m20_tk/
 [linkedin]: https://linkedin.com/in/annaarsentieva
 [portfolio]: https://arsentieva.github.io/profile/
 
