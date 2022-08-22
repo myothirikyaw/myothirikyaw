@@ -30,7 +30,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
----
+
 
 <details>
   <summary>:zap: Most Used Languages</summary>
@@ -43,6 +43,6 @@
 [youtube]: https://www.youtube.com/channel/UCS4NAT6DF0V0jvwxF4lAO7w
 [instagram]: https://www.instagram.com/m20_tk/
 [linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
+[portfolio]: https://
 
 
