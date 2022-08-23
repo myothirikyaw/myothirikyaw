@@ -4,7 +4,7 @@
 
 ## I'm Developer, Creator, Learner!!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my way
+- 🔭 I’m currently working [youtube]
 - 🌱 I’m currently learning HTML / CSS / javascript / jQuery / react
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
