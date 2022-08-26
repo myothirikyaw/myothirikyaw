@@ -43,6 +43,6 @@
 [youtube]: https://www.youtube.com/channel/UCS4NAT6DF0V0jvwxF4lAO7w
 [instagram]: https://www.instagram.com/m20_tk/
 [linkedin]: https://linkedin.com/in/
-[portfolio]: https://
+[portfolio]: https:/
 
 
