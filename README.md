@@ -41,7 +41,7 @@
 
 [website]: https://
 [youtube]: https://www.youtube.com/
-[instagram]: https://www.instagram.com/m20_tk/
+[instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/
 [portfolio]: https:///
 
