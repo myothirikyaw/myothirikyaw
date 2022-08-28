@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning HTML / CSS / javascript / jQuery / MySQL / react
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: https://www.instagram.com/m20_tk/
+- 📫 How to reach me: [instagram]
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Eating
 
