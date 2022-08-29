@@ -43,6 +43,6 @@
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/
-[portfolio]: https:///
+[portfolio]: https://
 
 
