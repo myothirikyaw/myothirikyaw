@@ -1,7 +1,7 @@
 ### Hello World!, I'm myothirikyaw 👋
 
 ## I'm Developer, Creator, Learner!!
-- 🌱 I’m currently learning HTML / CSS / javascript / jQuery / MySQL
+- 🌱 I’m currently learning HTML / CSS / javascript / PHP / jQuery / MySQL / J2EE / C++
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Eating
